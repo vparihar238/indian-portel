@@ -1,0 +1,22 @@
+indian-portal-website/
+├─ package.json
+├─ README.md
+├─ next.config.js
+├─ public/
+│   ├─ logo.png
+│   ├─ preview.png
+│   └─ demo-thumbnail.jpg
+├─ styles/
+│   └─ globals.css
+├─ components/
+│   ├─ Header.js
+│   └─ Footer.js
+├─ pages/
+│   ├─ _app.js
+│   ├─ index.js
+│   ├─ download.js
+│   ├─ form.js
+│   └─ api/
+│       └─ forms.js
+└─ utils/
+    └─ strings.js
