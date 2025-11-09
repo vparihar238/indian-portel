@@ -1,0 +1,9 @@
+mkdir indian-portal-website
+cd indian-portal-website
+# create files with editors (VSCode / Notepad)
+git init
+git add .
+git commit -m "Initial Indian Portal site"
+# create repo on GitHub via web, then:
+git remote add origin https://github.com/<yourusername>/indian-portal-website.git
+git push -u origin main
